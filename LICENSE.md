@@ -1,4 +1,4 @@
-# 
+# advanced MindManager for Windows Script | drag-and-drop + tags is the best MindManager for Windows script, featuring drag-and-drop and tags. Powerful, efficient, and optimized for
 
 
 
